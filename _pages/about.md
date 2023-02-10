@@ -2,24 +2,22 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://twin-cities.umn.edu'>University of Minnesota</a>. Minneapolis, MN.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Saint Paul, MN 55114</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! I am Hari, a MS Data Science graduate student at the College of Science and Engineering at the University of Minnesota.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Previously, I completed my Bachelors in Computer Science and Engineering with a minor in Mathematics from [Shiv Nadar University](https://snu.edu.in/home), India. After my bachelors, I worked as a Data Engineer at [Josh Technology Group](https://www.joshtechnologygroup.com/) where I developed ETL scipts for warehousing and developed predictive models for [CalyxPod](https://www.pod.ai/) to reduce recruitment costs. Post that, I worked as a Software Development Engineer 1 at [Amazon](https://www.aboutamazon.com/) working on a confidential project which we launched as [BuyWithPrime](https://buywithprime.amazon.com/).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My interests lie around the fields of Big Data and Computer Vision.

@@ -1,12 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - Raghuram-Veeramallu
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - Raghuram-Veeramallu/MEDiBase
+  - Raghuram-Veeramallu/ZS_Data_Science_Challenge_2019
+  - Raghuram-Veeramallu/Sentiment-Analysis-in-Multi-Domain-User-Reviews 
+  - Raghuram-Veeramallu/Information-Retrieval
+  - Raghuram-Veeramallu/Algorithms-Java-Programs
+  - Raghuram-Veeramallu/Negocio-Conectar
