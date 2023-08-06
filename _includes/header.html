@@ -6,16 +6,23 @@
         <div class="container">
           {% if page.permalink != '/' -%}
           <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
+            <!-- {%- if page.theme == "dark" -%} -->
+              <!-- <span class="font-weight-bold"><img src="/assets/img/logo1.png" alt="Hari">&nbsp;</span> -->
+            <!-- {%- else -%} -->
+              <!-- <span class="font-weight-bold"><img src="/assets/img/logo1.png" alt="No Hari">&nbsp;</span>
+               -->
+            <!-- <span class="font-weight-bold">{{- page.style.theme -}}&nbsp;</span> -->
+            <!-- {%- endif -%} -->
             {%- if site.title == "blank" -%}
               {%- if site.first_name -%}
                 <span class="font-weight-bold">{{- site.first_name -}}&nbsp;</span>
               {%- endif -%}
-              {%- if site.middle_name -%}
+              <!-- {%- if site.middle_name -%}
                 {{- site.middle_name -}}&nbsp;
               {%- endif -%}
               {%- if site.last_name -%}
                 {{- site.last_name -}}
-              {%- endif -%}
+              {%- endif -%} -->
             {%- else -%}
               {{- site.title -}}
             {%- endif -%}

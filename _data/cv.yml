@@ -4,38 +4,62 @@
     - name: Full Name
       value: Hari Sai Raghuram Veeramallu
     - name: Age
-      value: 23
+      value: 24
     - name: Languages
       value: English, Hindi, Telugu, Tamil
 
 - title: Education
   type: time_table
   contents:
-    - title: Master of Science
-      institution: University of Minnesota - Twin Cities, MN, USA
+    - institution: University of Minnesota - Twin Cities
+      location: Minneapolis, MN
       year: 2022 - Present
+      logo: umn.png
+      title:
+        - Master of Science - Data Science
       description:
-        - GPA - 3.8 / 4
+        - GPA - 3.9 / 4
         # - title: Description 3.
         #   contents:
         #     - Sub-description 1.
         #     - Sub-description 2.
-    - title: Bachelor of Technology
-      institution: Shiv Nadar University, Greater Noida, India
+    - institution: Shiv Nadar University
+      location: Greater Noida, Uttar Pradesh, India
       year: 2016 - 2020
+      logo: snu.png
+      title: 
+        - Bachelor of Technology - Computer Science
+        - Minor - Mathematics
       description:
-        - Minor in Mathematics
         - GPA - 8.57 / 10
 
 - title: Experience
   type: time_table
   contents:
-    - title: Software Development Engineer 1
-      institution: Amazon, Hyderabad, India
+    - institution: University of Minnesota - Institute of Health Informatics
+      location: Minneapolis, MN
+      logo: umn.png
+      year: 2023 - Present
+      title:
+        - Data Analyst
+    - institution: Amazon
+      location: Hyderabad, Telangana, India
+      logo: amazon.png
       year: 2021 - 2022
-    - title: Data Engineer
-      institution: Josh Technology Group, Gurgaon, India
+      title:
+        - Software Development Engineer 1
+    - institution: B.well Connected Health
+      location: Baltimore, MD (Remote)
+      logo: bwell.png
+      year: 2021
+      title:
+        - Data Engineer
+    - institution: Josh Technology Group
+      location: Gurgaon, Harayana, India
+      logo: jtg.png
       year: 2020 - 2021
+      title:
+        - Data Scientist
 
 # - title: Open Source Projects
 #   type: time_table
