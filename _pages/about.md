@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://twin-cities.umn.edu'>University of Minnesota</a>. Minneapolis, MN.
 
