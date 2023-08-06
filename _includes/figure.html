@@ -1,8 +1,8 @@
 {%- assign img_path = include.path | remove: ".jpg" | remove: ".jpeg" | remove: ".png" | remove: ".tiff" -%}
 
-<figure>
+<figure class="col4" style="height: 100%; display: flex; align-items: center; justify-content: center;">
 
-  <picture>
+  <picture style="height: 100%; width: 100%;">
     {% if site.imagemagick.enabled %}
     {% for i in site.imagemagick.widths -%}
       <source 
@@ -17,8 +17,9 @@
     <img 
       src="{{ include.path | relative_url }}"
       {% if include.class %}class="{{ include.class }}"{% endif %}  
-      {% if include.width %}width="{{ include.width }}"{% else %}width="auto"{% endif %} 
-      {% if include.height %}height="{{ include.height }}"{% else %}height="auto"{% endif %} 
+      {% if include.width %}width="{{ include.width }}"{% endif %} 
+      {% if include.style %}style="{{ include.style }}"{% endif %} 
+      {% if include.height %}height="{{ include.height }}"{% endif %} 
       {% if include.min-width %}min-width="{{ include.min-width }}"{% endif %} 
       {% if include.min-height %}min-height="{{ include.min-height }}"{% endif %} 
       {% if include.max-width %}max-width="{{ include.max-width }}"{% endif %} 

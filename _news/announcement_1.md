@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-06-29
 inline: true
 ---
 
-A simple inline announcement.
+Started working at the UofM Institute of Health Informatics as Summer RA (Data Analyst)
