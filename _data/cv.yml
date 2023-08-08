@@ -19,10 +19,6 @@
         - Master of Science - Data Science
       description:
         - GPA - 3.9 / 4
-        # - title: Description 3.
-        #   contents:
-        #     - Sub-description 1.
-        #     - Sub-description 2.
     - institution: Shiv Nadar University
       location: Greater Noida, Uttar Pradesh, India
       year: 2016 - 2020
@@ -68,12 +64,30 @@
 #       year: 2015-now
 #       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-# - title: Honors and Awards
-#   type: time_table
-#   contents:
-#     - year: 2019
-#       items: 
-#         - Max Planck Medal
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - institution: Dean's List Award (Monsoon 2019 semester)
+      logo: 
+      year: 2020
+      title: 
+        - Shiv Nadar University
+    - institution: Dean's List Award (Spring 2019 semester)
+      logo: 
+      year: 2019
+      title: 
+        - Shiv Nadar University
+    - institution: 15th Rank All over India
+      logo: 
+      year: 2019
+      title: 
+        - ZS Associates
+    - institution: Top 10 team at GE SynerGE Hack'e'lth
+      logo: 
+      year: 2019
+      title: 
+        - GE Digital
+    
 
 # - title: Academic Interests
 #   type: nested_list
