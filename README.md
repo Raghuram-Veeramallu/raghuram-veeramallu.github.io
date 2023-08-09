@@ -8,7 +8,9 @@
 [![GitHub forks](https://img.shields.io/github/forks/Raghuram-Veeramallu/raghuram-veeramallu.github.io)](https://github.com/Raghuram-Veeramallu/raghuram-veeramallu.github.io/fork)
 
 
-<!-- [![Preview](https://raw.githubusercontent.com/alshedivat/al-folio/master/assets/img/al-folio-preview.png)](https://alshedivat.github.io/al-folio/) -->
+<!-- [![Preview](https://raw.githubusercontent.com/Raghuram-Veeramallu/raghuram-veeramallu.github.io/master/assets/img/portfolio-preview.png)](https://raghuram-veeramallu.github.io) -->
+
+[![Preview](/assets/img/portfolio-preview.png)](https://raghuram-veeramallu.github.io)
 
 ## Lighthouse PageSpeed Insights
 
