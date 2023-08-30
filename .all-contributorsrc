@@ -5,8 +5,8 @@
   "imageSize": 100,
   "commit": false,
   "contributorsPerLine": 7,
-  "projectName": "al-folio",
-  "projectOwner": "alshedivat",
+  "projectName": "hari-porfolio",
+  "projectOwner": "Raghuram-Veeramallu",
   "repoType": "github",
   "repoHost": "https://github.com",
   "badgeTemplate": "[core_contributors]: https://img.shields.io/badge/core_contributors-<%= contributors.length %>-orange.svg 'Number of core contributors'",
@@ -14,29 +14,10 @@
   "skipCi": true,
   "contributors": [
     {
-      "login": "alshedivat",
-      "name": "Maruan",
-      "avatar_url": "https://avatars.githubusercontent.com/u/2126561?v=4",
-      "profile": "http://maruan.alshedivat.com",
-      "contributions": [
-        "design",
-        "code"
-      ]
-    },
-    {
-      "login": "rohandebsarkar",
-      "name": "Rohan Deb Sarkar",
-      "avatar_url": "https://avatars.githubusercontent.com/u/50144004?v=4",
-      "profile": "http://rohandebsarkar.github.io",
-      "contributions": [
-        "code"
-      ]
-    },
-    {
-      "login": "pourmand1376",
-      "name": "Amir Pourmand",
-      "avatar_url": "https://avatars.githubusercontent.com/u/32064808?v=4",
-      "profile": "https://amirpourmand.ir",
+      "login": "Raghuram-Veeramallu",
+      "name": "Hari",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26851915?v=4",
+      "profile": "http://raghuram-veeramallu.github.io",
       "contributions": [
         "code"
       ]
