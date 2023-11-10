@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Primate Pose Estimation
-description: Developed a deep learning model using rCNNs and Convolutional Pose Machine (CPM) to estimate the pose of the monkeys in different natural habitats as part of the OpenMonkeyChallenge. The pose is tracked using 17 different landmarks of the monkey pose and the error is measured using Mean Per Joint Position Error (MPJPE). We obtained a MPJPE of 0.217.
+description: Designed an innovative deep learning model employing rCNNs and Convolutional Pose Machine (CPM) for the OpenMonkeyChallenge, aimed at estimating monkey poses in various natural habitats. This model meticulously tracks 17 distinct landmarks of monkey poses, with accuracy assessed through the Mean Per Joint Position Error (MPJPE). Achieving an impressive MPJPE of 0.217, this development marks a significant stride in wildlife monitoring and behavioral study using advanced AI techniques.
 img: assets/img/nonprimate_pose_estimation.png
 importance: -6
-category: academic
+category: Computer Vision
 ---
 
 This project aims at estimating the pose of Non-Human Primates (NHP) in different environment settings. This projects particularly aims to approach the [OpenMonkeyChallenge](http://openmonkeychallenge.com/). OpenMonkeyChallenge is a computer vision benchmark challenge for NHP pose estimation. The data for this challenge consists of over 100,000 annotated photographs of NHPs in naturalistic contexts obtained from various sources for various species of monkeys and apes. The pose of the monkey is determined by 17 key pose landmarks including Nose, Left eye, Right eye, Head, Neck, Left shoulder, Left elbow, Left wrist, Right shoulder, Right elbow, Right wrist, Hip, Left knee, Left ankle, Right knee, Right ankle, and Tail. The dataset has been made publicly available by [Yao et. Al.](https://link.springer.com/article/10.1007/s11263-022-01698-2).

@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Motion Prediction for Autonomous Vehicles
-description: Developed a deep learning model to estimate the trajectory of surrounding vehicles of a self-driving vehicle. The deep learning model is based on Polyline-LSTM-MLP based model using transformer based encoders to encode the agent and autonomous vehicle state histories and the roadgraph polylines.
+description: Developed an advanced deep learning model to accurately predict the trajectories of surrounding vehicles in relation to self-driving vehicles. This model integrates Polyline-LSTM-MLP architecture with transformer-based encoders, effectively analyzing both the movement history of nearby agents and the intricate patterns of road networks.
 img: assets/img/waymo_motion_prediction_cover.png
 # img:
 importance: -10
-category: academic
+category: Autonomous Vehicles
 ---
 
 <!-- I have taken up this project to predict the motion of surrounding agents for self driving cars. This challenge has been posted by Waymo open as [Waymo Motion Prediction Challenge](https://waymo.com/open/challenges/2022/motion-prediction).
