@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Stock Performance Forecasting using Meeting Transcripts
-description: Created a sophisticated Natural Language Processing (NLP) pipeline designed to predict stock performance using stakeholder meeting transcripts. This two-part system first condenses transcripts into concise summaries using Huggingface T5/GPT-based Large Language Models (LLMs), and then evaluates sentiment with Huggingface BERT-based LLMs, providing a nuanced understanding of market movements influenced by stakeholder communications.
+description: Built an NLP pipeline to predict stock performance from stakeholder meeting transcripts. It summarizes transcripts with Huggingface T5/GPT LLMs and analyzes sentiment with Huggingface BERT LLMs, offering insights into market movements based on stakeholder communications.
 img: assets/img/stock_forecasting.png
 importance: -9
 category: Natural Language Processing

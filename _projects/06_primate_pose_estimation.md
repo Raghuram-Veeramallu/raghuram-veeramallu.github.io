@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Primate Pose Estimation
-description: Designed an innovative deep learning model employing rCNNs and Convolutional Pose Machine (CPM) for the OpenMonkeyChallenge, aimed at estimating monkey poses in various natural habitats. This model meticulously tracks 17 distinct landmarks of monkey poses, with accuracy assessed through the Mean Per Joint Position Error (MPJPE). Achieving an impressive MPJPE of 0.217, this development marks a significant stride in wildlife monitoring and behavioral study using advanced AI techniques.
+description: Designed a deep learning model using rCNNs and CPM for the OpenMonkeyChallenge to estimate monkey poses in natural habitats. It tracks 17 monkey pose landmarks, with its accuracy measured by MPJPE. The model achieved an MPJPE of 0.217, enhancing wildlife monitoring and behavioral studies through AI.
 img: assets/img/nonprimate_pose_estimation.png
 importance: -6
 category: Computer Vision
