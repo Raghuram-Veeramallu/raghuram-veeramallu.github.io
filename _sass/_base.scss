@@ -60,10 +60,25 @@ blockquote {
   text-align: center;
 }
 
+.responsive-img {
+  max-width: 100%;
+  height: auto;
+  display: block; /* Prevent inline default spacing */
+}
+
+.image-container {
+  /* Optional: constrain the images to a part of the grid */
+  width: 100%; /* Adjust if you want to set a max-width */
+  padding: 10px; /* Optional: if you want some space around the image */
+}
+
 // Card
 
 .card {
   background-color: var(--global-card-bg-color);
+  margin: 10px;
+  padding: 10px;
+  overflow: hidden; /* Ensures content does not overflow */
 
   img {
     width: 100%;
@@ -78,6 +93,26 @@ blockquote {
   //   color: var(--global-text-color);
   //   font-size: 6px;
   // }
+
+  .card-body {
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start; /* or 'center' for horizontal center alignment */
+    justify-content: space-around;
+    overflow: hidden;
+    text-align: left; /* Default is left, but you can change it */
+    background: #fff; /* Optional: if you want a specific background */
+  }  
+
+  @media only screen and (max-width: 768px) {
+    .card-body {
+      /* Adjustments for smaller screens */
+      padding: 10px;
+      align-items: center; /* Stack items in the center on small screens */
+      text-align: center; /* Center text on small screens */
+    }
+  }
 
   .card-item {
     width: auto;
