@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Amazon Reviews Sentiment Analysis
-description: Analyzed the sentiment of users based on their reviews for the largest eCommerce website Amazon.com. Used different text processing techniques along with machine learning algorithms to obtain an accuracy of 84%.
+description: Conducted a comprehensive sentiment analysis of user reviews on Amazon.com, the world's largest eCommerce platform. This project involved the application of various text processing techniques combined with sophisticated machine learning algorithms, successfully achieving an impressive accuracy rate of 84%. This analysis provides valuable insights into customer opinions and behaviors, enhancing understanding of consumer satisfaction and preferences.
 img: assets/img/amznrev_sent_analysis.png
 importance: -1
-category: academic
+category: Data Analysis
 ---

@@ -24,11 +24,11 @@ Hello there! I'm Hari, currently navigating the fascinating realm of Data Scienc
 
 **🏥 In the Heart of Health Informatics**
 
-In my current role as a Research Assistant at the [Institute of Health Informatics](https://healthinformatics.umn.edu/), University of Minnesota, I'm deeply involved in the "Advancing Health Equity" project. This initiative is more than a job; it's a mission to harness the power of data to bridge health disparities and promote equitable healthcare access for all. Under the expert guidance of [Dr. Erich Kummerfeld](https://healthinformatics.umn.edu/staff/erich-kummerfeld), I'm contributing to research that has the potential to transform health equity among community school students.
+In my current role as a Research Assistant at the [Institute of Health Informatics](https://healthinformatics.umn.edu/), University of Minnesota, I'm deeply involved in the "Advancing Health Equity" project. This initiative is more than a job; it's a mission to harness the power of data to bridge health disparities and promote equitable healthcare access for all. Guided by the esteemed mentorship of [Dr. Erich Kummerfeld](https://healthinformatics.umn.edu/staff/erich-kummerfeld), I am actively engaged in pioneering research aimed at revolutionizing health equity among community school students.
 
 **🎓 A Solid Foundation in Computer Science and Mathematics**
 
-My journey began at [Shiv Nadar University](https://snu.edu.in/home), India, where I delved deep into Computer Science and Engineering, complemented by a minor in Mathematics. This blend of disciplines wasn't just an academic pursuit; it was a launchpad for my passion in data science.
+My journey began at [Shiv Nadar University](https://snu.edu.in/home), India, where I delved deep into Computer Science and Engineering, enhanced with a supplementary minor in Mathematics. This blend of disciplines wasn't just an academic pursuit; it was a launchpad for my passion in data science.
 
 **💼 From Predictive Models to Amazon's Tech Innovations**
 
