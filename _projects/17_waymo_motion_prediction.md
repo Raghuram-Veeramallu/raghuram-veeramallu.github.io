@@ -4,7 +4,7 @@ title: Motion Prediction for Autonomous Vehicles
 description: Developed an advanced deep learning model to accurately predict the trajectories of surrounding vehicles in relation to self-driving vehicles. This model integrates Polyline-LSTM-MLP architecture with transformer-based encoders, effectively analyzing both the movement history of nearby agents and the intricate patterns of road networks.
 img: assets/img/waymo_motion_prediction_cover.png
 # img:
-importance: -10
+importance: -17
 category: Autonomous Vehicles
 ---
 
