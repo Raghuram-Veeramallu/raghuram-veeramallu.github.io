@@ -3,8 +3,7 @@ layout: page
 title: 'Evaluating Diver Detection: YOLOv8 vs. Transformer Models'
 description: Demonstrated the superior performance and computational efficiency of YoLOv8 over DETR architecture on the Video
 Diver Dataset (VDD).
-# img: assets/img/waymo_motion_prediction_cover.png
-# img:
+img: assets/img/vdd-gif.gif
 importance: -18
 category: Computer Vision
 ---
