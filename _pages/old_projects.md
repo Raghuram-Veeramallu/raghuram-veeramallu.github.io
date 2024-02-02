@@ -9,6 +9,7 @@ display_categories: [Autonomous Vehicles, Computer Vision, Natural Language Proc
 horizontal: false
 ---
 
+
 <!-- pages/projects.md -->
 
 <div class="projects">
@@ -19,22 +20,43 @@ horizontal: false
   <h2 class="category">{{ category }}</h2>
   {%- assign categorized_projects = site.projects | where: "category", category -%}
   {%- assign sorted_projects = categorized_projects | sort: "importance" %}
-  
   <!-- Generate cards for each project -->
-  <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
+  
+  {% if page.horizontal -%}
+  <div class="container">
+    <div class="row row-cols-2">
     {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %} <!-- Ensure this template is responsive -->
+      {% include projects_horizontal.html %}
+    {%- endfor %}
+    </div>
+  </div>
+  {%- else -%}
+  <div class="grid">
+    {%- for project in sorted_projects -%}
+      {% include projects.html %}
     {%- endfor %}
   </div>
+  {%- endif -%}
   {% endfor %}
 
 {%- else -%}
-  <!-- Display projects without categories -->
+<!-- Display projects without categories -->
   {%- assign sorted_projects = site.projects | sort: "importance" -%}
-  <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
+  <!-- Generate cards for each project -->
+  {% if page.horizontal -%}
+  <div class="container">
+    <div class="row row-cols-2">
     {%- for project in sorted_projects -%}
-      {% include projects.html %} <!-- Ensure this template is responsive -->
+      {% include projects_horizontal.html %}
+    {%- endfor %}
+    </div>
+  </div>
+  {%- else -%}
+  <div class="grid">
+    {%- for project in sorted_projects -%}
+      {% include projects.html %}
     {%- endfor %}
   </div>
+  {%- endif -%}
 {%- endif -%}
 </div>
