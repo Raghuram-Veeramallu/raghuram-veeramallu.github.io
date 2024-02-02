@@ -2,7 +2,7 @@
 layout: page
 title: Self-Driving Vehicle Control
 description: Crafted a sophisticated vehicle controller for autonomous navigation through predefined waypoints in the CARLA simulation environment. This controller combines Proportional-Integral-Derivative (PID) methodology for precise longitudinal control with the Stanley controller for lateral management, ensuring smooth and accurate maneuvering of the autonomous vehicle.
-img: assets/img/carla_vehicle_control.gif
+img: assets/gifs/carla_vehicle_control.gif
 importance: -14
 category: Autonomous Vehicles
 ---
