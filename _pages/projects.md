@@ -5,7 +5,7 @@ permalink: /projects/
 description: My Projects
 nav: true
 nav_order: 1
-display_categories: [Autonomous Vehicles, Computer Vision, Natural Language Processing, Data Analysis, Application Development]
+display_categories: [Computer Vision, Autonomous Vehicles, Natural Language Processing, Data Analysis, Application Development]
 horizontal: false
 ---
 

@@ -64,26 +64,50 @@
 #       year: 2015-now
 #       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
+- title: Certifications
+  type: time_table
+  contents:
+    - institution: Introduction to Self Driving Cars
+      logo: utor.png
+      year: 2023
+      title: 
+        - University of Toronto
+    - institution: Neural Networks and Deep Learning
+      logo: deeplearningai.png
+      year: 2019
+      title: 
+        - deeplearning.ai
+    - institution: Specialization in Applied Data Science
+      logo: umich.png
+      year: 2018
+      title: 
+        - University of Michigan
+    - institution: Machine Learning
+      logo: stanford.webp
+      year: 2017
+      title: 
+        - Stanford University
+
 - title: Honors and Awards
   type: time_table
   contents:
     - institution: Dean's List Award (Monsoon 2019 semester)
-      logo: 
+      logo: snu.png
       year: 2020
       title: 
         - Shiv Nadar University
     - institution: Dean's List Award (Spring 2019 semester)
-      logo: 
+      logo: snu.png
       year: 2019
       title: 
         - Shiv Nadar University
     - institution: 15th Rank All over India
-      logo: 
+      logo: zs.png
       year: 2019
       title: 
         - ZS Associates
     - institution: Top 10 team at GE SynerGE Hack'e'lth
-      logo: 
+      logo: ge.png
       year: 2019
       title: 
         - GE Digital
