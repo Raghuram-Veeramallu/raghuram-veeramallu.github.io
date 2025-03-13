@@ -4,7 +4,7 @@
     - name: Full Name
       value: Hari Sai Raghuram Veeramallu
     - name: Age
-      value: 25
+      value: 26
     - name: Languages
       value: English, Hindi, Telugu, Tamil
 
@@ -32,13 +32,18 @@
 - title: Experience
   type: time_table
   contents:
+    - institution: Amazon
+      location: Seattle, WA
+      logo: amazon.png
+      year: 2024 - Present
+      title:
+        - Software Development Engineer II
     - institution: Visual Intelligence Lab
       location: Minneapolis, MN
       logo: umn.png
-      year: 2024 - Present
+      year: 2024
       title:
-        - Researcher 2  
-        - Research Assistant
+        - Researcher 2
     - institution: Minnesota Interactive Robotics and Vision Laboratory
       location: Minneapolis, MN
       logo: umn.png

@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://twin-cities.umn.edu'>University of Minnesota, Twin Cities</a>. Minneapolis, MN.
+subtitle: <a href='https://www.aboutamazon.com'>Amazon</a>. Seattle, WA.
 
 profile:
   align: right
