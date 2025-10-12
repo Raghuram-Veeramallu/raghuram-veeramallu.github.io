@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 
 **🚀 Meet Hari - Your Data Science Maverick!**
 
-Hello there! I'm Hari, currently navigating the fascinating realm of Data Science as a Master's student at the prestigious [College of Science and Engineering, University of Minnesota](https://cse.umn.edu/). But that's just the tip of the iceberg!
+Hello there! I'm Hari, a SDE at Amazon's Alexa division. Currently navigating the fascinating realm of LLMs to provide AI powered intelligent Alexa, also known as the Alexa+. But that's just the tip of the iceberg!
 
 **🌟 Big Data and Deep Learning: My Passion**
 
