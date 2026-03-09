@@ -5,4 +5,5 @@ description: A multi-platform mobile application for connecting Farmer's around 
 img: assets/img/farmers_buddy.png
 importance: -1
 category: Application Development
+link_to_page: true
 ---

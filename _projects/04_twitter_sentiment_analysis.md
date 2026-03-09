@@ -5,4 +5,5 @@ description: Performed sentiment analysis on Amazon.com reviews using text proce
 img: assets/img/amznrev_sent_analysis.png
 importance: -4
 category: Data Analysis
+link_to_page: true
 ---

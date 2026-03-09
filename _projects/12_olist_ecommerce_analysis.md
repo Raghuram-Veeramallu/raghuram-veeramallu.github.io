@@ -5,4 +5,5 @@ description: Developed a data warehouse for Brazilian eCommerce company OList, c
 img: assets/img/olist_ecommerce.png
 importance: -12
 category: Data Analysis
+link_to_page: true
 ---

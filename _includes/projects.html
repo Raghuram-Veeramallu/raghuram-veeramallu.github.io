@@ -1,19 +1,21 @@
 <!-- _includes/projects.html -->
 <div class="grid-sizer"></div>
 <div class="grid-item">
-  <!-- {% if project.redirect -%}
-  <a href="{{ project.redirect }}">
+  {%- if project.link_to_page -%}
+    {%- if project.redirect -%}
+      <a href="{{ project.redirect }}">
     {%- else -%}
-    <a href="{{ project.url | relative_url }}">
-      {%- endif %} -->
-      <div class="card hoverable row" style="height: 165px;">
+      <a href="{{ project.url | relative_url }}">
+    {%- endif -%}
+  {%- endif -%}
+      <div class="card hoverable row" style="min-height: 165px;">
         {%- if project.img %}
         {%- include figure.html
           path=project.img
-          style="height: 100%; width: auto;"
+          style="height: 100%; width: auto; object-fit: cover;"
           alt="project thumbnail" -%}
         {%- endif %}
-        <div class="card-body col-12 col-md-8 d-flex flex-column align-items-center align-md-items-start">
+        <div class="card-body col-12 col-md-8 d-flex flex-column justify-content-center align-items-start">
           <h2 class="card-title">{{ project.title }}</h2>
           <p class="card-text">{{ project.description }}</p>
           <div class="row ml-1 mr-1 p-0">
@@ -33,5 +35,7 @@
           </div>
         </div>
       </div>
-    <!-- </a> -->
+  {%- if project.link_to_page -%}
+    </a>
+  {%- endif -%}
 </div>

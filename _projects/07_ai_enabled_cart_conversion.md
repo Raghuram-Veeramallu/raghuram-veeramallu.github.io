@@ -5,4 +5,5 @@ description: CartFuel is an analytics driven system aimed at reducing eCommerce 
 img: assets/img/cart_fuel.png
 importance: -7
 category: Data Analysis
+link_to_page: true
 ---

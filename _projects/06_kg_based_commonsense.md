@@ -5,4 +5,5 @@ description: Developed a deep learning model with a Knowledge Graph for answerin
 img: assets/img/kg_commonsense_qa.png
 importance: -6
 category: Natural Language Processing
+link_to_page: true
 ---

@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://www.aboutamazon.com'>Amazon</a>. Seattle, WA.
+subtitle: Software Development Engineer &middot; <a href='https://www.aboutamazon.com'>Amazon</a> &middot; Seattle, WA
 
 profile:
   align: right
@@ -14,26 +14,18 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-**Welcome to My World of Data and Discovery!**  
+I'm Hari, a Software Development Engineer at [Amazon](https://www.aboutamazon.com) in Seattle, building LLM-powered systems for Alexa+. My work spans intelligent system design across the full stack — from scalable backend services to deep learning models and AI pipelines.
 
-**🚀 Meet Hari - Your Data Science Maverick!**
+My technical focus areas include **LLMs & Generative AI**, **Computer Vision**, and **distributed backend systems**.
 
-Hello there! I'm Hari, a SDE at Amazon's Alexa division. Currently navigating the fascinating realm of LLMs to provide AI powered intelligent Alexa, also known as the Alexa+. But that's just the tip of the iceberg!
+**Experience**
 
-**🌟 Big Data and Deep Learning: My Passion**
+At Amazon, I've worked across two teams: currently on the Audio Playback Experience team powering [Alexa+](https://www.amazon.com/alexaplus), and previously on [BuyWithPrime](https://buywithprime.amazon.com/), where I contributed to the core returns lifecycle for D2C orders.
 
-But what really makes my heart race? The exhilarating fields of Big Data and Deep Learning, especially their applications in autonomous vehicles. It's not just about the data; it's about how we can use it to propel us into a future where technology and humanity converge.
+Before Amazon, I was a Data Scientist at [Josh Technology Group](https://www.joshtechnologygroup.com/), where I built predictive models for [CalyxPod](https://www.pod.ai/) that reduced recruitment costs by 50%, and designed ETL pipelines and OLAP workflows that cut report latency by 80%.
 
-**🎓 A Solid Foundation in Computer Science and Mathematics**
+**Education**
 
-My journey began at [Shiv Nadar University](https://snu.edu.in/home), India, where I delved deep into Computer Science and Engineering, enhanced with a supplementary minor in Mathematics. This blend of disciplines wasn't just an academic pursuit; it was a launchpad for my passion in data science.
+B.Tech in Computer Science & Engineering from [Shiv Nadar University](https://snu.edu.in/home), India, with a minor in Mathematics. I have also conducted research in computer vision at the Interactive Robotics and Vision Lab (IRVL) and the Visual Intelligence Lab.
 
-**💼 From Predictive Models to Amazon's Tech Innovations**
-
-Post-graduation, I joined [Josh Technology Group](https://www.joshtechnologygroup.com/) as a Data Scientist. Picture this: I developed predictive models for [CalyxPod](https://www.pod.ai/), slashing recruitment costs by a whopping 50%! My days involved designing warehouse schemas, crafting ETL pipelines, and fine-tuning SQL scripts and OLAP techniques, ultimately reducing report latency by 80%.
-
-Subsequently, I joined Amazon as a Software Development Engineer. There, I was instrumental in developing and implementing [BuyWithPrime](https://buywithprime.amazon.com/), a service that extends the convenience, fast shipping, and trusted checkout experience of Amazon Prime to various online retailers. This role not only involved enhancing the shopping experience for Prime members on external websites but also empowering merchants with Amazon's fulfillment network, thereby driving customer satisfaction and business growth.
-
-<!-- As a Software Development Engineer, I was at the forefront of [BuyWithPrime](https://buywithprime.amazon.com/), Amazon's one-click solution , architecting the core returns lifecycle for D2C orders. My role was a blend of innovation and collaboration, contributing to the groundbreaking BwP LFBF (Label-Free Box-Free) returns architecture. -->
-
-***Join me on this journey of exploration, innovation, and transformation. Let's redefine what's possible with data!***
+Feel free to reach out at [harisaiv (at) amazon (dot) com] for any discussions or collaborations.

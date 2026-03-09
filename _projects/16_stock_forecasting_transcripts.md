@@ -5,5 +5,6 @@ description: Built an NLP pipeline to predict stock performance from stakeholder
 img: assets/img/stock_forecasting.png
 importance: -16
 category: Natural Language Processing
+link_to_page: true
 ---
 

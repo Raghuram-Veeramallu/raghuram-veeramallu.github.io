@@ -5,6 +5,7 @@ description: Designed a deep learning model using rCNNs and CPM for the OpenMonk
 img: assets/img/nonprimate_pose_estimation.png
 importance: -13
 category: Computer Vision
+link_to_page: true
 ---
 
 This project aims at estimating the pose of Non-Human Primates (NHP) in different environment settings. This projects particularly aims to approach the [OpenMonkeyChallenge](http://openmonkeychallenge.com/). OpenMonkeyChallenge is a computer vision benchmark challenge for NHP pose estimation. The data for this challenge consists of over 100,000 annotated photographs of NHPs in naturalistic contexts obtained from various sources for various species of monkeys and apes. The pose of the monkey is determined by 17 key pose landmarks including Nose, Left eye, Right eye, Head, Neck, Left shoulder, Left elbow, Left wrist, Right shoulder, Right elbow, Right wrist, Hip, Left knee, Left ankle, Right knee, Right ankle, and Tail. The dataset has been made publicly available by [Yao et. Al.](https://link.springer.com/article/10.1007/s11263-022-01698-2).

@@ -5,4 +5,5 @@ description: Developed a secure, decentralized EMR system with a hybrid architec
 img: assets/img/medibase.png
 importance: -5
 category: Application Development
+link_to_page: true
 ---

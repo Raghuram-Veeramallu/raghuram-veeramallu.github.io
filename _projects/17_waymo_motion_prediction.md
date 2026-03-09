@@ -6,6 +6,7 @@ img: assets/img/waymo_motion_prediction_cover.png
 # img:
 importance: -17
 category: Autonomous Vehicles
+link_to_page: true
 ---
 
 <!-- I have taken up this project to predict the motion of surrounding agents for self driving cars. This challenge has been posted by Waymo open as [Waymo Motion Prediction Challenge](https://waymo.com/open/challenges/2022/motion-prediction).

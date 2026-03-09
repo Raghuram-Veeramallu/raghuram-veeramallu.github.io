@@ -5,4 +5,5 @@ description: Analyzed the impact of meteorological factors on forest fire spread
 img: assets/img/forestfire_analysis.png
 importance: -11
 category: Data Analysis
+link_to_page: true
 ---
