@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Software Development Engineer &middot; <a href='https://www.aboutamazon.com'>Amazon</a> &middot; Seattle, WA
+subtitle: Software Development Engineer &middot; <a href='https://www.aboutamazon.com'>Amazon</a> &middot; Alexa Audio &middot; Seattle, WA
 
 profile:
   align: right
@@ -14,13 +14,13 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm Hari, a Software Development Engineer at [Amazon](https://www.aboutamazon.com) in Seattle, building LLM-powered systems for Alexa+. My work spans intelligent system design across the full stack — from scalable backend services to deep learning models and AI pipelines.
+I'm Hari, a Software Development Engineer at [Amazon](https://www.aboutamazon.com) in Seattle. On the Audio Playback Experience team, I'm the team's audio-domain expert — I fine-tune, build, and deploy large language models directly into production for [Alexa+](https://www.amazon.com/alexaplus), rather than just integrating them.
 
-My technical focus areas include **LLMs & Generative AI**, **Computer Vision**, and **distributed backend systems**.
+My focus sits at the intersection of applied LLMs and distributed backend systems — owning the full path from model development to production-grade serving infrastructure.
 
 **Experience**
 
-At Amazon, I've worked across two teams: currently on the Audio Playback Experience team powering [Alexa+](https://www.amazon.com/alexaplus), and previously on [BuyWithPrime](https://buywithprime.amazon.com/), where I contributed to the core returns lifecycle for D2C orders.
+Previously at Amazon, I owned the core returns orchestrator service for [BuyWithPrime](https://buywithprime.amazon.com/) — designing and building the scalable systems behind its returns lifecycle for direct-to-consumer orders, and helping take the product from build to launch.
 
 Before Amazon, I was a Data Scientist at [Josh Technology Group](https://www.joshtechnologygroup.com/), where I built predictive models for [CalyxPod](https://www.pod.ai/) that reduced recruitment costs by 50%, and designed ETL pipelines and OLAP workflows that cut report latency by 80%.
 

@@ -7,6 +7,9 @@
       year: 2024 - Present
       title:
         - Software Development Engineer II
+      description:
+        - Audio-domain expert on the Audio Playback Experience team, owning technical decisions for audio-centric LLM features powering Alexa+
+        - Fine-tune, build, and deploy large language models directly into production, covering the full lifecycle from model development to live serving
     - institution: Visual Intelligence Lab
       location: Minneapolis, MN
       logo: umn.png
@@ -31,18 +34,28 @@
       year: 2021 - 2022
       title:
         - Software Development Engineer I
+      description:
+        - Owned the core returns orchestrator service for Amazon BuyWithPrime end-to-end, from design through operational readiness, on the team that launched the product
+        - Designed and built the highly scalable Returns module underpinning BuyWithPrime's direct-to-consumer order flow
+        - Automated application security compliance and integration testing across multiple services
     - institution: B.well Connected Health
       location: Baltimore, MD (Remote)
       logo: bwell.png
       year: 2021
       title:
         - Data Engineer
+      description:
+        - Embedded as an away-team data engineer with b.well Connected Health, building PySpark data-warehouse pipelines for their analytics platform
     - institution: Josh Technology Group
       location: Gurgaon, Harayana, India
       logo: jtg.png
       year: 2020 - 2021
       title:
         - Data Scientist
+      description:
+        - Built and maintained high-volume data warehouses and BI reporting for multiple client accounts
+        - Developed ML pipelines and automated ETL workflows to process and load data at scale
+        - Participated in mentoring, technical interviewing, and planning decisions for the team
 
 - title: Education
   type: time_table

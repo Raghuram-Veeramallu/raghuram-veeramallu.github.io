@@ -5,7 +5,7 @@ permalink: /projects/
 description:
 nav: true
 nav_order: 1
-display_categories: [Computer Vision, Autonomous Vehicles, Natural Language Processing, Data Analysis, Application Development]
+display_categories: [Software Engineering, Computer Vision, Autonomous Vehicles, Natural Language Processing, Data Analysis, Application Development]
 horizontal: false
 ---
 
